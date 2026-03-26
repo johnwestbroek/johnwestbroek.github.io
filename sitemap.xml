@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://johnwestbroek.nl/</loc>
+    <lastmod>2026-03-26T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://johnwestbroek.nl/tags/gaming/</loc>
     <lastmod>2026-03-24T00:00:00+00:00</lastmod>
   </url><url>
@@ -14,11 +17,8 @@
     <loc>https://johnwestbroek.nl/tags/</loc>
     <lastmod>2026-03-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://johnwestbroek.nl/inf/</loc>
+    <loc>https://johnwestbroek.nl/info/</loc>
     <lastmod>2026-03-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://johnwestbroek.nl/</loc>
-    <lastmod>2025-01-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://johnwestbroek.nl/txt/ants/</loc>
     <lastmod>2024-02-15T10:00:00-07:00</lastmod>
@@ -31,6 +31,9 @@
   </url><url>
     <loc>https://johnwestbroek.nl/tags/writing/</loc>
     <lastmod>2024-02-15T10:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://johnwestbroek.nl/cvnl/</loc>
+    <lastmod>2024-01-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://johnwestbroek.nl/tags/code/</loc>
     <lastmod>2023-03-15T11:00:00-07:00</lastmod>
@@ -70,7 +73,5 @@
   </url><url>
     <loc>https://johnwestbroek.nl/prj/</loc>
     <lastmod>2023-01-01T08:30:00-07:00</lastmod>
-  </url><url>
-    <loc>https://johnwestbroek.nl/categories/</loc>
   </url>
 </urlset>
