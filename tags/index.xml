@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on John Westbroek</title>
+    <link>https://johnwestbroek.nl/tags/</link>
+    <description>Recent content in Tags on John Westbroek</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 24 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://johnwestbroek.nl/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gaming</title>
+      <link>https://johnwestbroek.nl/tags/gaming/</link>
+      <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://johnwestbroek.nl/tags/gaming/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Retro</title>
+      <link>https://johnwestbroek.nl/tags/retro/</link>
+      <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://johnwestbroek.nl/tags/retro/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Essay</title>
+      <link>https://johnwestbroek.nl/tags/essay/</link>
+      <pubDate>Thu, 15 Feb 2024 10:00:00 -0700</pubDate>
+      <guid>https://johnwestbroek.nl/tags/essay/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Writing</title>
+      <link>https://johnwestbroek.nl/tags/writing/</link>
+      <pubDate>Thu, 15 Feb 2024 10:00:00 -0700</pubDate>
+      <guid>https://johnwestbroek.nl/tags/writing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Code</title>
+      <link>https://johnwestbroek.nl/tags/code/</link>
+      <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
+      <guid>https://johnwestbroek.nl/tags/code/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Computing</title>
+      <link>https://johnwestbroek.nl/tags/computing/</link>
+      <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
+      <guid>https://johnwestbroek.nl/tags/computing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hardware</title>
+      <link>https://johnwestbroek.nl/tags/hardware/</link>
+      <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
+      <guid>https://johnwestbroek.nl/tags/hardware/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Philosophy</title>
+      <link>https://johnwestbroek.nl/tags/philosophy/</link>
+      <pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
+      <guid>https://johnwestbroek.nl/tags/philosophy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Red</title>
+      <link>https://johnwestbroek.nl/tags/red/</link>
+      <pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
+      <guid>https://johnwestbroek.nl/tags/red/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Philosophy on John Westbroek</title>
+    <link>https://johnwestbroek.nl/tags/philosophy/</link>
+    <description>Recent content in Philosophy on John Westbroek</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 15 Jan 2023 09:00:00 -0700</lastBuildDate>
+    <atom:link href="https://johnwestbroek.nl/tags/philosophy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dokkōdō</title>
+      <link>https://johnwestbroek.nl/lib/dokodo/</link>
+      <pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
+      <guid>https://johnwestbroek.nl/lib/dokodo/</guid>
+      <description>Miyamoto Musashi is a legendary swordsman, undefeated in 63 one-one-one duels. He killed his first man when he was 13. He fought in numerous wars, then transitioned into being a wandering swordsman, pursuing mastery over his chosen path. Later in his life he put down the sword, and pursued mastery in calligraphy, painting, philosophy, metallurgy, and more.&#xA;Miyamoto Musashi is the legend of many paths.&#xA;Musashi was a Ronin. His master, Hirata Takehiko died in 1609.</description>
+    </item>
+  </channel>
+</rss>
