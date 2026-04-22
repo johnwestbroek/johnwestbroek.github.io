@@ -27,7 +27,7 @@
       <link>https://johnwestbroek.nl/inf/</link>
       <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
       <guid>https://johnwestbroek.nl/inf/</guid>
-      <description> INTRO Elsewhere @johnwestbroek LinkedIn Bluesky GitHub Instapaper Discogs Last.fm Pinterest Work RESUME CVNL MEDIA media 1 media 1 media 1 Studio </description>
+      <description>I work at the intersection of marketing, content, product, and technology. These are the areas where I feel most at home, and where most of my work takes shape. Bringing them together into a coherent career is an ongoing challenge. I work at the intersection of marketing, content, product, and technology. These are the areas where I feel most at home, and where most of my work takes shape. Bringing them together into a coherent career is an ongoing challenge.</description>
     </item>
     <item>
       <title>What We Think We Are Saving</title>
@@ -37,18 +37,18 @@
       <description>[WIP] Anim eiusmod irure incididunt sint cupidatat. Incididunt irure irure irure nisi ipsum do ut quis fugiat consectetur proident cupidatat incididunt cillum. Dolore voluptate occaecat qui mollit laborum ullamco et. Ipsum laboris officia anim laboris culpa eiusmod ex magna ex cupidatat anim ipsum aute. Mollit aliquip occaecat qui sunt velit ut cupidatat reprehenderit enim sunt laborum. Velit veniam in officia nulla adipisicing ut duis officia.&#xA;Exercitation voluptate irure in irure tempor mollit Lorem nostrud ad officia.</description>
     </item>
     <item>
+      <title>Duikboot (PC)</title>
+      <link>https://johnwestbroek.nl/prj/duikboot/</link>
+      <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://johnwestbroek.nl/prj/duikboot/</guid>
+      <description> Lenovo ThinkCentre M700 SFF Duikboot is a compact, no-nonsense workstation built from a refurbished Lenovo ThinkCentre M700 Small Form Factor. What it lacks in size, it makes up for in reliability and quiet persistence.&#xA;Designed for labbing, coding, retro gaming, and system tinkering, it serves as a stable and efficient daily companion. This machine reflects a philosophy: practical, durable, and adaptable. Not cutting-edge, but thoughtfully upgraded and purpose-driven.&#xA;Specifications Model</description>
+    </item>
+    <item>
       <title>CVNL</title>
       <link>https://johnwestbroek.nl/cvnl/</link>
       <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://johnwestbroek.nl/cvnl/</guid>
       <description>Introductie Vaardigheden Ervaring Werkwijze Portfolio Ik werk op het snijvlak van marketing, content, product en techniek. Ik verbind die onderdelen tot een samenhangend geheel en breng structuur in organisaties die in beweging zijn. Ik neem verantwoordelijkheid, werk zelfstandig en denk in samenhang. Ik kom het best tot mijn recht in omgevingen met vertrouwen, autonomie en korte lijnen. Lees hoe ik werk Vaardigheden Content &amp; Communicatie Copywriting (websites, landingspagina’s, productteksten, nieuwsbrieven) Contentstructuur en -strategie Redactie en tone-of-voice bewaking E-mailmarketing (Mailchimp) Branding &amp; Visual Direction Ontwikkeling en bewaking van huisstijl en merkidentiteit Doorvertaling van merk naar digitale uitingen Coördinatie van design (in samenwerking met designer) Basis beeldbewerking (Photoshop) en DTP (InDesign / Affinity) Web &amp; E-commerce Websiteontwikkeling en -beheer (HTML, CSS, basis JS/PHP) CMS-systemen (WordPress, Shopify, Odoo) Opzetten en beheren van landingspagina’s E-commerce beheer en optimalisatie Structureren van content en productinformatie Digital Operations &amp; Tools Webanalyse (Google Analytics, Leadinfo) Data interpreteren en vertalen naar concrete verbeteringen Basis SEO/SEA/GEO Werken met AI-tools voor content en efficiëntie Opzetten en beheren van digitale marketingcampagnes (Google Ads) Coördinatie met externe partijen (ICT, hosting, media, visualisatie) Ervaring Mei 2022 &amp;mdash; Mrt 2026 Digital Marketing &amp; Brand Lead Markant Office</description>
-    </item>
-    <item>
-      <title>Duikboot</title>
-      <link>https://johnwestbroek.nl/prj/duikboot/</link>
-      <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
-      <guid>https://johnwestbroek.nl/prj/duikboot/</guid>
-      <description>Occaecat aliqua consequat laborum ut ex aute aliqua culpa quis irure esse magna dolore quis. Proident fugiat labore eu laboris officia Lorem enim. Ipsum occaecat cillum ut tempor id sint aliqua incididunt nisi incididunt reprehenderit. Voluptate ad minim sint est aute aliquip esse occaecat tempor officia qui sunt. Aute ex ipsum id ut in est velit est laborum incididunt. Aliqua qui id do esse sunt eiusmod id deserunt eu nostrud aute sit ipsum.</description>
     </item>
     <item>
       <title>Website</title>
@@ -63,6 +63,13 @@
       <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://johnwestbroek.nl/lib/dokodo/</guid>
       <description>Miyamoto Musashi is a legendary swordsman, undefeated in 63 one-one-one duels. He killed his first man when he was 13. He fought in numerous wars, then transitioned into being a wandering swordsman, pursuing mastery over his chosen path. Later in his life he put down the sword, and pursued mastery in calligraphy, painting, philosophy, metallurgy, and more.&#xA;Miyamoto Musashi’s 21 principles of Dokkodo The Dokkodo (“The Path of Aloneness,” The Way to Go Forth Alone,” or “The Way of Walking Alone”) is a short work written by Miyamoto Musashi shortly before his death.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://johnwestbroek.nl/readme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://johnwestbroek.nl/readme/</guid>
+      <description>johnwestbroek.nl Hugo-based static website, hosted on GitHub Pages</description>
     </item>
   </channel>
 </rss>
