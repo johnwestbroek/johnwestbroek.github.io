@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on John Westbroek</title>
-    <link>https://johnwestbroek.nl/prj/</link>
+    <link>https://johnwestbroek.nl/arc/prj/</link>
     <description>Recent content in Projects on John Westbroek</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 15 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://johnwestbroek.nl/prj/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://johnwestbroek.nl/arc/prj/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Duikboot (PC)</title>
-      <link>https://johnwestbroek.nl/prj/duikboot/</link>
+      <link>https://johnwestbroek.nl/arc/prj/duikboot/</link>
       <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://johnwestbroek.nl/prj/duikboot/</guid>
+      <guid>https://johnwestbroek.nl/arc/prj/duikboot/</guid>
       <description> Lenovo ThinkCentre M700 SFF Duikboot is a compact, no-nonsense workstation built from a refurbished Lenovo ThinkCentre M700 Small Form Factor. What it lacks in size, it makes up for in reliability and quiet persistence.&#xA;Designed for labbing, coding, retro gaming, and system tinkering, it serves as a stable and efficient daily companion. This machine reflects a philosophy: practical, durable, and adaptable. Not cutting-edge, but thoughtfully upgraded and purpose-driven.&#xA;Specifications Model</description>
     </item>
     <item>
       <title>Website</title>
-      <link>https://johnwestbroek.nl/prj/website/</link>
+      <link>https://johnwestbroek.nl/arc/prj/website/</link>
       <pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
-      <guid>https://johnwestbroek.nl/prj/website/</guid>
+      <guid>https://johnwestbroek.nl/arc/prj/website/</guid>
       <description>╔═══════════════════════════════════════════╗ ║ TAG CHEAT SHEET ║ ╠═══════════════════╦═══════════════════════╣ ║ MAIN TAGS ║ DETAIL TAGS ║ ╠═══════════════════╬═══════════════════════╣ ║ developing ║ essay ║ ║ writing ║ documentation ║ ║ computing ║ notes ║ ║ gaming ║ list ║ ║ illustration ║ research ║ ║ philosophy ║ experiment ║ ║ profile ║ code ║ ║ ║ wip ║ ║ ║ hardware ║ ║ ║ software ║ ║ ║ tools ║ ║ ║ media ║ ║ ║ retro ║ ╚═══════════════════╩═══════════════════════╝ Folder (3-letter) Long name / purpose Example tags inside Notes LIB Library writing, essay, documentation, notes, manual All text-based content, essays, manuals, and general reading material.</description>
     </item>
   </channel>

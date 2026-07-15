@@ -35,34 +35,37 @@
     <loc>https://johnwestbroek.nl/tags/retro/</loc>
     <lastmod>2026-03-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://johnwestbroek.nl/inv/snes/</loc>
+    <loc>https://johnwestbroek.nl/arc/inv/snes/</loc>
     <lastmod>2026-03-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://johnwestbroek.nl/inv/tvs/</loc>
+    <loc>https://johnwestbroek.nl/arc/inv/tvs/</loc>
     <lastmod>2026-03-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://johnwestbroek.nl/tags/computing/</loc>
     <lastmod>2025-03-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://johnwestbroek.nl/prj/duikboot/</loc>
+    <loc>https://johnwestbroek.nl/arc/prj/duikboot/</loc>
     <lastmod>2025-03-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://johnwestbroek.nl/prj/website/</loc>
+    <loc>https://johnwestbroek.nl/arc/prj/website/</loc>
     <lastmod>2023-01-15T09:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://johnwestbroek.nl/lib/dokodo/</loc>
+    <loc>https://johnwestbroek.nl/arc/lib/dokodo/</loc>
     <lastmod>2023-01-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://johnwestbroek.nl/tags/philosophy/</loc>
     <lastmod>2023-01-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://johnwestbroek.nl/inv/</loc>
+    <loc>https://johnwestbroek.nl/arc/</loc>
     <lastmod>2023-01-01T08:30:00-07:00</lastmod>
   </url><url>
-    <loc>https://johnwestbroek.nl/lib/</loc>
+    <loc>https://johnwestbroek.nl/arc/inv/</loc>
     <lastmod>2023-01-01T08:30:00-07:00</lastmod>
   </url><url>
-    <loc>https://johnwestbroek.nl/prj/</loc>
+    <loc>https://johnwestbroek.nl/arc/lib/</loc>
+    <lastmod>2023-01-01T08:30:00-07:00</lastmod>
+  </url><url>
+    <loc>https://johnwestbroek.nl/arc/prj/</loc>
     <lastmod>2023-01-01T08:30:00-07:00</lastmod>
   </url><url>
     <loc>https://johnwestbroek.nl/readme/</loc>
